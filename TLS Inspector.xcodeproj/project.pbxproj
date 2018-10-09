@@ -813,7 +813,7 @@
 				TargetAttributes = {
 					3C43EF811D7A987F00AE65E9 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = WCW84NC7Y8;
+						DevelopmentTeam = 7YPEWC4JFX;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
@@ -832,7 +832,7 @@
 					};
 					3CFAE6D51CA8440400CD946B = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = WCW84NC7Y8;
+						DevelopmentTeam = 7YPEWC4JFX;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -1083,7 +1083,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Inspect Website/Inspect Website.entitlements";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WCW84NC7Y8;
+				DEVELOPMENT_TEAM = 7YPEWC4JFX;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/Inspect Website/InspectWebsite_PrefixHeader.pch";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/TLS\\ Inspector/Supporting\\ Files/Frameworks/**";
@@ -1098,7 +1098,7 @@
 					"\"${PODS_ROOT}/Headers/Public/OpenSSL-Universal\"",
 					"-DEXTENSION",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ecnepsnai.Certificate-Inspector.Inspect-Website";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saucelabs.Certificate-Inspector.Inspect-Website";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -1115,7 +1115,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Inspect Website/Inspect Website.entitlements";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WCW84NC7Y8;
+				DEVELOPMENT_TEAM = 7YPEWC4JFX;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/Inspect Website/InspectWebsite_PrefixHeader.pch";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/TLS\\ Inspector/Supporting\\ Files/Frameworks/**";
@@ -1130,7 +1130,7 @@
 					"\"${PODS_ROOT}/Headers/Public/OpenSSL-Universal\"",
 					"-DEXTENSION",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ecnepsnai.Certificate-Inspector.Inspect-Website";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saucelabs.Certificate-Inspector.Inspect-Website";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -1348,7 +1348,7 @@
 				CODE_SIGN_ENTITLEMENTS = "TLS Inspector/TLS Inspector.entitlements";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WCW84NC7Y8;
+				DEVELOPMENT_TEAM = 7YPEWC4JFX;
 				GCC_PREFIX_HEADER = "TLS Inspector/Supporting Files/PrefixHeader.pch";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/TLS\\ Inspector/Supporting\\ Files/Frameworks/**";
 				INFOPLIST_FILE = "TLS Inspector/Info.plist";
@@ -1364,7 +1364,7 @@
 					"\"${PODS_ROOT}/Headers/Public/OpenSSL-Universal\"",
 					"-DMAIN_APP",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ecnepsnai.Certificate-Inspector";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saucelabs.Certificate-Inspector";
 				PRODUCT_NAME = "TLS Inspector";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1379,7 +1379,7 @@
 				CODE_SIGN_ENTITLEMENTS = "TLS Inspector/TLS Inspector.entitlements";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WCW84NC7Y8;
+				DEVELOPMENT_TEAM = 7YPEWC4JFX;
 				GCC_OPTIMIZATION_LEVEL = fast;
 				GCC_PREFIX_HEADER = "TLS Inspector/Supporting Files/PrefixHeader.pch";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/TLS\\ Inspector/Supporting\\ Files/Frameworks/**";
@@ -1396,7 +1396,7 @@
 					"\"${PODS_ROOT}/Headers/Public/OpenSSL-Universal\"",
 					"-DMAIN_APP",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ecnepsnai.Certificate-Inspector";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saucelabs.Certificate-Inspector";
 				PRODUCT_NAME = "TLS Inspector";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
